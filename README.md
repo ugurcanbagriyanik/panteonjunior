@@ -1,1 +1,1 @@
-# panteonjunior
+# panteondemo
